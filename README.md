@@ -18,7 +18,7 @@ Artificial Intelligence has become a driving force in reshaping the banking land
 | Akhileswar P     | 111720102096 | PALLAAKHILESWAR              |
 | Manoj N     | 111720102081 | NannuriManoj              |
 | Hemavardhan K     | 111720102062 | HemavardhanK              |
-| Aasrith M     | 111720102067 | [ID]              |
+| Aasrith M     | 111720102067 | Aasrith-Mandava              |
 
 
 ## Contribution Guidelines
