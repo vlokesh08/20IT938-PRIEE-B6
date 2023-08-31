@@ -1,5 +1,5 @@
-# 20IT938-PRIEE
-
+# 20IT938-PRIEE-B6
+# Batch : 06
 # AI-Based Discourse for Banking Industry
 
 ## Introduction
